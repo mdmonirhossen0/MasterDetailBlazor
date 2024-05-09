@@ -1,0 +1,64 @@
+﻿@page "/students"
+@inject HttpClient http
+@inject IJSRuntime jsRuntime
+@inject NavigationManager manager;
+<h3>Student List</h3>
+<div class="form-group">
+    <a class="btn btn-success" href="students/create">Create New Student</a>
+</div>
+@if (students.Count == 0)
+{
+    <text>There no record to show</text>
+}
+else
+{
+    <table class="table ">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Image</th>
+                <th>Name</th>
+                <th>Admission Date</th>
+                <th>Active</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var student in students)
+            {
+                <tr>
+                    <td>@student.Id</td>
+                    <td><img height="50" width="50" src="@student.ImageUrl"></td>
+                    <td>@student.Name</td>
+                    <td>@student.AdmissionDate</td>
+                    <td>@student.IsActive</td>
+                    <td>
+                        <a class="btn btn-sm btn-primary" href="students/edit/@student.Id">Edit</a> |
+                        <button @onclick="async ()=>await Delete(student)" class="btn btn-danger btn-sm">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    List<Student> students { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        students = await http.GetFromJsonAsync<List<Student>>("api/students");
+    }
+    private async Task Delete(Student student)
+    {
+        bool confirmed = await jsRuntime.InvokeAsync<bool>("confirm", "Are you sure to delete the record");
+        if (confirmed)
+        {
+            var response = await http.DeleteAsync($"api/students/{student.Id}");
+            if (response.IsSuccessStatusCode)
+            {
+                students.Remove(student);
+            }
+          
+        }
+    }
+}

@@ -1,0 +1,47 @@
+﻿@page "/products"
+@using BlazorHostingWithServer.Client.Repository
+@inject IProductService service;
+@inject NavigationManager manager;
+
+<h3>Product List</h3>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Category</th>
+            <th>Price</th>
+            <th>Operation</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in service.Products)
+        {
+            <tr>
+                <td>@item.Title</td>
+                <td>@item.Category</td>
+                <td>@item.Price</td>
+                <td>
+                    <button class="btn btn-primary" @onclick="(()=>ShowProduct(item.Id))">Show</button>
+                </td>
+            </tr>
+        }
+        
+    </tbody>
+</table>
+<button class="btn btn-success" @onclick="CreateNewProduct">
+    Create New Product
+</button>
+@code {
+    protected override async Task OnInitializedAsync()
+    {
+        await service.GetProducts();
+    }
+    void ShowProduct(int id)
+    {
+        manager.NavigateTo($"product/{id}");
+    }
+    void CreateNewProduct()
+    {
+        manager.NavigateTo("product");
+    }
+}
