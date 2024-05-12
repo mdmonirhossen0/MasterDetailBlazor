@@ -1,0 +1,820 @@
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Client.staticwebassets.runtime.json
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\appsettings.Development.json
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\appsettings.json
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugProxy.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Newtonsoft.Json.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.staticwebassets.runtime.json
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.exe
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.deps.json
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.runtimeconfig.json
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.pdb
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.JSInterop.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Client.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Shared.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Client.pdb
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Shared.pdb
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.csproj.AssemblyReference.cache
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.AssemblyInfoInputs.cache
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.AssemblyInfo.cs
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.csproj.CoreCompileInputs.cache
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.MvcApplicationPartsAssemblyInfo.cs
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.MvcApplicationPartsAssemblyInfo.cache
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets.build.json
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets.development.json
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets\msbuild.BlazorHostingWithServer.Server.Microsoft.AspNetCore.StaticWebAssets.props
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorHostingWithServer.Server.props
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorHostingWithServer.Server.props
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorHostingWithServer.Server.props
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets.pack.json
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\scopedcss\bundle\BlazorHostingWithServer.Server.styles.css
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHo.95A3E034.Up2Date
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\refint\BlazorHostingWithServer.Server.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.pdb
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.genruntimeconfig.cache
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\ref\BlazorHostingWithServer.Server.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Azure.Core.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Azure.Identity.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Humanizer.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.CodeDom.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Memory.Data.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\appsettings.Development.json
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\appsettings.json
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugProxy.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Newtonsoft.Json.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Client.staticwebassets.runtime.json
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.staticwebassets.runtime.json
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.exe
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.deps.json
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.runtimeconfig.json
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.pdb
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Azure.Core.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Azure.Identity.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Humanizer.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.JSInterop.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.CodeDom.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Memory.Data.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Client.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Shared.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Client.pdb
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Shared.pdb
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.csproj.AssemblyReference.cache
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.AssemblyInfoInputs.cache
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.AssemblyInfo.cs
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.csproj.CoreCompileInputs.cache
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.MvcApplicationPartsAssemblyInfo.cs
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.MvcApplicationPartsAssemblyInfo.cache
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets.build.json
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets.development.json
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets\msbuild.BlazorHostingWithServer.Server.Microsoft.AspNetCore.StaticWebAssets.props
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorHostingWithServer.Server.props
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorHostingWithServer.Server.props
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorHostingWithServer.Server.props
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets.pack.json
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\scopedcss\bundle\BlazorHostingWithServer.Server.styles.css
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.csproj.CopyComplete
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\refint\BlazorHostingWithServer.Server.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.pdb
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.genruntimeconfig.cache
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\ref\BlazorHostingWithServer.Server.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\appsettings.Development.json
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\appsettings.json
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugProxy.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Newtonsoft.Json.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Client.staticwebassets.runtime.json
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.staticwebassets.runtime.json
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.exe
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.deps.json
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.runtimeconfig.json
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.pdb
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Azure.Core.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Azure.Identity.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Humanizer.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.JSInterop.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.CodeDom.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Memory.Data.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Client.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Shared.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Client.pdb
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Shared.pdb
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.csproj.AssemblyReference.cache
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.AssemblyInfoInputs.cache
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.AssemblyInfo.cs
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.csproj.CoreCompileInputs.cache
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.MvcApplicationPartsAssemblyInfo.cs
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.MvcApplicationPartsAssemblyInfo.cache
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets.build.json
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets.development.json
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets\msbuild.BlazorHostingWithServer.Server.Microsoft.AspNetCore.StaticWebAssets.props
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorHostingWithServer.Server.props
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorHostingWithServer.Server.props
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorHostingWithServer.Server.props
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets.pack.json
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\scopedcss\bundle\BlazorHostingWithServer.Server.styles.css
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.csproj.CopyComplete
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\refint\BlazorHostingWithServer.Server.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.pdb
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.genruntimeconfig.cache
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\ref\BlazorHostingWithServer.Server.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\appsettings.Development.json
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\appsettings.json
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugProxy.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Newtonsoft.Json.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Client.staticwebassets.runtime.json
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.staticwebassets.runtime.json
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.exe
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.deps.json
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.runtimeconfig.json
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.pdb
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Azure.Core.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Azure.Identity.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Humanizer.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.JSInterop.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.CodeDom.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Memory.Data.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Client.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Shared.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Client.pdb
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Shared.pdb
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.csproj.AssemblyReference.cache
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.AssemblyInfoInputs.cache
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.AssemblyInfo.cs
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.csproj.CoreCompileInputs.cache
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.MvcApplicationPartsAssemblyInfo.cs
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.MvcApplicationPartsAssemblyInfo.cache
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets.build.json
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets.development.json
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets\msbuild.BlazorHostingWithServer.Server.Microsoft.AspNetCore.StaticWebAssets.props
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorHostingWithServer.Server.props
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorHostingWithServer.Server.props
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorHostingWithServer.Server.props
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets.pack.json
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\scopedcss\bundle\BlazorHostingWithServer.Server.styles.css
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\refint\BlazorHostingWithServer.Server.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.pdb
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.genruntimeconfig.cache
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\ref\BlazorHostingWithServer.Server.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHo.95A3E034.Up2Date
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\appsettings.Development.json
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\appsettings.json
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugProxy.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorDebugProxy\Newtonsoft.Json.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Client.staticwebassets.runtime.json
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.staticwebassets.runtime.json
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.exe
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.deps.json
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.runtimeconfig.json
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Server.pdb
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Azure.Core.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Azure.Identity.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Humanizer.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.JSInterop.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.CodeDom.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.Convention.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Drawing.Common.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Memory.Data.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Client.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Shared.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Client.pdb
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\bin\Debug\net8.0\BlazorHostingWithServer.Shared.pdb
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.csproj.AssemblyReference.cache
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.GeneratedMSBuildEditorConfig.editorconfig
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.AssemblyInfoInputs.cache
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.AssemblyInfo.cs
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.csproj.CoreCompileInputs.cache
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.MvcApplicationPartsAssemblyInfo.cs
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.MvcApplicationPartsAssemblyInfo.cache
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets.build.json
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets.development.json
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets\msbuild.BlazorHostingWithServer.Server.Microsoft.AspNetCore.StaticWebAssets.props
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorHostingWithServer.Server.props
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorHostingWithServer.Server.props
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorHostingWithServer.Server.props
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\staticwebassets.pack.json
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\scopedcss\bundle\BlazorHostingWithServer.Server.styles.css
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.csproj.CopyComplete
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\refint\BlazorHostingWithServer.Server.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.pdb
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\BlazorHostingWithServer.Server.genruntimeconfig.cache
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Server\obj\Debug\net8.0\ref\BlazorHostingWithServer.Server.dll

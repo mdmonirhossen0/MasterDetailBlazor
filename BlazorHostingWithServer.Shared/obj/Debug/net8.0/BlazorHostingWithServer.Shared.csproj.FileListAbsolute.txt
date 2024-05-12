@@ -1,0 +1,55 @@
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\bin\Debug\net8.0\BlazorHostingWithServer.Shared.deps.json
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\bin\Debug\net8.0\BlazorHostingWithServer.Shared.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\bin\Debug\net8.0\BlazorHostingWithServer.Shared.pdb
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.AssemblyInfoInputs.cache
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.AssemblyInfo.cs
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.csproj.CoreCompileInputs.cache
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\refint\BlazorHostingWithServer.Shared.dll
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.pdb
+E:\R_55\Blazor\Projects\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\ref\BlazorHostingWithServer.Shared.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\bin\Debug\net8.0\BlazorHostingWithServer.Shared.deps.json
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\bin\Debug\net8.0\BlazorHostingWithServer.Shared.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\bin\Debug\net8.0\BlazorHostingWithServer.Shared.pdb
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.AssemblyInfoInputs.cache
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.AssemblyInfo.cs
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.csproj.CoreCompileInputs.cache
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\refint\BlazorHostingWithServer.Shared.dll
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.pdb
+E:\1277498\download\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\ref\BlazorHostingWithServer.Shared.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\bin\Debug\net8.0\BlazorHostingWithServer.Shared.deps.json
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\bin\Debug\net8.0\BlazorHostingWithServer.Shared.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\bin\Debug\net8.0\BlazorHostingWithServer.Shared.pdb
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.AssemblyInfoInputs.cache
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.AssemblyInfo.cs
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.csproj.CoreCompileInputs.cache
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\refint\BlazorHostingWithServer.Shared.dll
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.pdb
+E:\1277498\Blazor\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\ref\BlazorHostingWithServer.Shared.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\bin\Debug\net8.0\BlazorHostingWithServer.Shared.deps.json
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\bin\Debug\net8.0\BlazorHostingWithServer.Shared.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\bin\Debug\net8.0\BlazorHostingWithServer.Shared.pdb
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.AssemblyInfoInputs.cache
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.AssemblyInfo.cs
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.csproj.CoreCompileInputs.cache
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\refint\BlazorHostingWithServer.Shared.dll
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.pdb
+E:\BlazorProject\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\ref\BlazorHostingWithServer.Shared.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\bin\Debug\net8.0\BlazorHostingWithServer.Shared.deps.json
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\bin\Debug\net8.0\BlazorHostingWithServer.Shared.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\bin\Debug\net8.0\BlazorHostingWithServer.Shared.pdb
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.GeneratedMSBuildEditorConfig.editorconfig
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.AssemblyInfoInputs.cache
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.AssemblyInfo.cs
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.csproj.CoreCompileInputs.cache
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\refint\BlazorHostingWithServer.Shared.dll
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\BlazorHostingWithServer.Shared.pdb
+I:\BlazorHostingWithServerSolution (1)\BlazorHostingWithServerSolution\BlazorHostingWithServer.Shared\obj\Debug\net8.0\ref\BlazorHostingWithServer.Shared.dll
